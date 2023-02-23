@@ -1,4 +1,4 @@
-# Desafio Front-end resposivo
+# Desafio Front-end responsivo
 
 Desafio proposto para testar habilidades.
 
