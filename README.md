@@ -13,16 +13,15 @@ Créditos do desafio: Front-end mentor
 
 * Html e CSS (flexbox e grid).
 
-### 1 - Página original do desafio
 
-![Homepage image](https://github.com/karolcossatis/Site-Barbearia-Alura/blob/main/prints%20site%20barbearia/Print-home.png)
+### 1 - Páginas Desktop e Mobile produzidas por mim
 
-### 2 - Páginas Desktop e Mobile produzidas por mim
+![Homepage desktop](https://github.com/karolcossatis/desafiofrontend1/blob/main/Printdesktop-desafiofront.png)
+![Homepage mobile](https://github.com/karolcossatis/desafiofrontend1/blob/main/Printmobile-desafiofront.png)
 
-![Servicos page](https://github.com/karolcossatis/Site-Barbearia-Alura/blob/master/prints%20site%20barbearia/print-servicos.png)
-![contato page](https://github.com/karolcossatis/Site-Barbearia-Alura/blob/main/prints%20site%20barbearia/Print-contato.png)
+### 2 - Página original do desafio
 
-
+![Homepage image](https://github.com/karolcossatis/desafiofrontend1/blob/main/desktop-preview.jpg)
 
 
 
