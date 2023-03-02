@@ -16,8 +16,8 @@ Créditos do desafio: Front-end mentor
 
 ### 1 - Páginas Desktop e Mobile produzidas por mim
 
-![Homepage desktop](https://github.com/karolcossatis/desafiofrontend1/blob/main/Printdesktop-desafiofront.png)
-![Homepage mobile](https://github.com/karolcossatis/desafiofrontend1/blob/main/Printmobile-desafiofront.png)
+![Homepage desktop](https://github.com/karolcossatis/desafiofrontend1/blob/main/Printdesktop-desafiofront2.png)
+![Homepage mobile](https://github.com/karolcossatis/desafiofrontend1/blob/main/printmobile.png)
 
 ### 2 - Página original do desafio
 
